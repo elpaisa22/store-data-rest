@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-@Entity(name = "AP_CLIENTE")
+@Entity
 public class Cliente {
 
 	@Id
